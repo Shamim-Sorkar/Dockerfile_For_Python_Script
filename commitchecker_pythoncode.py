@@ -1,4 +1,4 @@
-# commit_checker.py
+
 import requests
 
 REPO = "Shamim-Sorkar/Dockerfile_For_Python_Script"
